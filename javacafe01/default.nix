@@ -305,7 +305,7 @@ in {
         name = "javacafe_phocus";
         src = builtins.fetchTarball {
           url =
-            "https://github.com/javacafe01/phocus-gtk/archive/master.tar.gz";
+            "https://github.com/javacafe01/phocus/archive/master.tar.gz";
           sha256 = "0r92v06w769blm8n8hspq82g18m9fahbq8v8cfnp029k81w8jlz9";
         };
         nativeBuildInputs = [ pkgs.sass ];
