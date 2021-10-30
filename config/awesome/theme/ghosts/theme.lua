@@ -279,7 +279,7 @@ theme.notification_border_width = dpi(0)
 -- Swallowing
 --
 theme.dont_swallow_classname_list = {
-    "firefox", "gimp", "Google-chrome", "Thunar"
+    "firefox", "Google-chrome", "Thunar"
 }
 
 -- Calendar

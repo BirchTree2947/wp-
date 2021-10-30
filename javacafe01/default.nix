@@ -37,7 +37,6 @@ in {
     mpv
     playerctl
     zoom-us
-    gimp
     arandr
     gnome3.nautilus
     gnome3.eog
@@ -45,7 +44,6 @@ in {
     evince
     manix
     sqlite
-    element-desktop
     pandoc
     glxinfo
     master.neovim-unwrapped
